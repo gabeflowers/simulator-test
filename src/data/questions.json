@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "question": "De acordo com o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, é vedado ao servidor:",
+    "options": [
+      "Desempenhar, a tempo, as atribuições do cargo.",
+      "Tratar cuidadosamente os usuários dos serviços.",
+      "Ser conivente com erro ou infração ao Código de Ética.",
+      "Ter respeito à hierarquia, sem temor de representar contra a estrutura.",
+      "Exercer atividade ética e ligar o nome a empreendimentos duvidosos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "A conivência com erro ou infração ao Código de Ética é vedada, mesmo por espírito de solidariedade."
+  },
+  {
+    "id": 2,
+    "question": "Segundo a Lei nº 7.498/86, é atribuição do técnico de enfermagem:",
+    "options": [
+      "Realização de consulta de enfermagem.",
+      "Prescrição da assistência de enfermagem.",
+      "Participação na programação da assistência.",
+      "Cuidado direto a pacientes graves com risco de vida.",
+      "Coordenação dos serviços de assistência."
+    ],
+    "correctAnswer": 3,
+    "explanation": "O técnico de enfermagem pode prestar cuidado direto a pacientes em risco de vida sob supervisão."
+  },
+  {
+    "id": 3,
+    "question": "Sobre a passagem de plantão, é correto afirmar:",
+    "options": [
+      "É uma atividade informal, não reconhecida institucionalmente.",
+      "Deve ocorrer sem tempo preestabelecido.",
+      "Deve durar no mínimo 60 minutos.",
+      "Acontece com o encontro das equipes dos turnos.",
+      "É uma atividade estática e não sistematizada."
+    ],
+    "correctAnswer": 3,
+    "explanation": "A troca de informações ocorre entre as equipes dos turnos para continuidade da assistência."
+  },
+  {
+    "id": 4,
+    "question": "Segundo o art. 198 da Constituição Federal, são diretrizes do SUS:\n\nI - Universalidade de acesso aos serviços de saúde.\nII - Preservação da autonomia das pessoas.\nIII - Igualdade da assistência à saúde, privilegiando os mais doentes.\nIV - Direito à informação sobre sua saúde.\nV - Descentralização político-administrativa.\n\nQuais estão corretas?",
+    "options": [
+      "Apenas I, II e III.",
+      "Apenas I, III e IV.",
+      "Apenas II, III e IV.",
+      "Apenas II, IV e V.",
+      "Apenas I, II, IV e V."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Os princípios corretos são I (universalidade), II (autonomia), IV (direito à informação) e V (descentralização)."
+  },
+  {
+    "id": 5,
+    "question": "Sobre cuidados com fístulas arteriovenosas (FAV) para hemodiálise, considere as afirmações:\n\nI - A punção das FAV deve ser realizada usando um ângulo de inserção de 25° e, observado o refluxo de sangue, este deve ser reduzido, deixando a agulha paralela à pele, empurrando-a lentamente até o lúmen do vaso.\n\nII - Após a retirada da agulha, a compressão direta sobre o local, com um ou dois dedos, com firmeza, impedindo completamente o fluxo de sangue no vaso, é o melhor método para obter hemostasia.\n\nIII - Deve-se manter pressão local por, no mínimo, 10 minutos antes de verificar se há sangramento no local da agulha.\n\nIV - Os curativos adesivos somente podem ser colocados quando há hemostasia completa e devem ser retirados após 4 a 6 horas da sua colocação.\n\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas I e III.",
+      "Apenas I, III e IV.",
+      "I, II, III e IV."
+    ],
+    "correctAnswer": 3,
+    "explanation": "As afirmações I, III e IV estão corretas de acordo com as boas práticas de enfermagem em hemodiálise. A II está incorreta pois a compressão excessiva pode causar oclusão ou dano ao acesso."
+  },
+  {
+    "id": 6,
+    "question": "Sobre hemodiálise em terapia intensiva, qual alteração ocorre com falta de fluxo no cateter venoso?",
+    "options": [
+      "Aumento da pressão transmembrana.",
+      "Aumento da pressão venosa ou de retorno.",
+      "Redução da pressão venosa ou de retorno.",
+      "Redução da pressão arterial.",
+      "Coagulação do sistema."
+    ],
+    "correctAnswer": null,
+    "explanation": "Questão anulada no gabarito oficial."
+  },
+  {
+    "id": 7,
+    "question": "Associe terapias dialíticas às suas características. Assinale a sequência correta:\n\n(1) Ultrafiltração isolada\n(2) Hemodiálise estendida\n(3) Hemofiltração\n(4) Hemodiafiltração\n(5) Diálise peritoneal\n\nA - Magnitude depende do volume e frequência da troca e da solução osmótica.\nB - Pequenas e grandes moléculas eliminadas por convecção sem solução de diálise.\nC - Remove apenas volume de líquidos.\nD - Menor risco de instabilidade e menor custo.\nE - Combinação de solução de diálise e de reposição.",
+    "options": [
+      "2 – 5 – 3 – 4 – 1.",
+      "5 – 3 – 1 – 2 – 4.",
+      "4 – 5 – 3 – 1 – 2.",
+      "3 – 4 – 1 – 2 – 5.",
+      "5 – 2 – 4 – 3 – 1."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A sequência correta é: 5 (A), 3 (B), 1 (C), 2 (D), 4 (E)."
+  },
+  {
+    "id": 8,
+    "question": "Sobre as atualizações do SAVC 2020, qual está INCORRETA?",
+    "options": [
+      "IV é a via de preferência para medicação.",
+      "Pós-retorno exige controle neuro e hemodinâmico.",
+      "Monitorar pressão e ETCO2 melhora ressuscitação.",
+      "Administração precoce de epinefrina é indicada.",
+      "Não é recomendado controle de temperatura de 32° a 36°C."
+    ],
+    "correctAnswer": 4,
+    "explanation": "O controle direcionado da temperatura entre 32°–36°C ainda é recomendado."
+  },
+  {
+    "id": 9,
+    "question": "Considerando o atendimento do Suporte Avançado de Vida Cardiovascular (SAVC) à Parada Cardiorrespiratória (PCR), assinale com V (verdadeiro) ou F (falso) as afirmações abaixo:\n\n( ) Na ausência de via aérea avançada, deve ser mantida a relação compressão-ventilação de 30:2.\n( ) A segunda dose de Amiodarona a ser administrada durante a PCR deve ser de 300mg.\n( ) A dose de Epinefrina 1mg poderá ser administrada por via intraóssea (IO) a cada 3 a 5 minutos.\n( ) A profundidade da compressão torácica deve ser de, pelo menos, 5 cm, enquanto a frequência deve ser mantida de 100 a 120 compressões por minuto.\n( ) Na presença de Atividade Elétrica Sem Pulso (AESP), indicam-se o início imediato de compressões torácicas por 2 minutos e, em seguida, a administração de 1mg Epinefrina.",
+    "options": [
+      "V – F – V – V – F.",
+      "F – V – F – V – V.",
+      "V – V – V – F – F.",
+      "F – F – F – F – V.",
+      "F – F – F – V – V."
+    ],
+    "correctAnswer": 0,
+    "explanation": "A sequência correta de verdadeiro e falso é V – F – V – V – F, conforme o protocolo SAVC 2020."
+  },
+  {
+    "id": 10,
+    "question": "Em relação à manobra de pronação, assinale com V (verdadeiro) ou F (falso) as afirmações abaixo:\n\n( ) A complicação mais grave relacionada a dispositivos invasivos durante a realização da manobra para posição prona é a extubação acidental.\n( ) São considerados cuidados pré-manobra: pausa da dieta, preparo de coxins, cuidados oculares e com a pele; revisão da fixação dos dispositivos invasivos; adequação da analgesia, sedação e bloqueio neuromuscular.\n( ) Manter o paciente em posição de Trendelenburg, enquanto em prona, reduz o refluxo esofágico e risco de aspiração.\n( ) Para evitar lesões, o membro superior deve ser elevado em posição de nadador e a posição da cabeça mudada a cada 2 a 4 horas.\n( ) Após a manobra, deve-se verificar a posição dos coxins de pelve, tórax e face, garantindo abdômen livre e prevenção de lesões.",
+    "options": [
+      "V – F – V – V – F.",
+      "F – V – F – F – V.",
+      "V – V – F – V – V.",
+      "F – F – V – F – F.",
+      "F – F – F – V – V."
+    ],
+    "correctAnswer": 2,
+    "explanation": "As afirmações 1, 2, 4 e 5 estão corretas. A terceira (Trendelenburg) está incorreta pois aumenta o risco de aspiração."
+  },
+  {
+    "id": 11,
+    "question": "Sobre cuidados com ECMO, estão corretas:\n\nI - Alteração pupilar, sangramentos e hemólise devem ser reportados à equipe.\nII - Em emergência, deve-se dizer “estamos fora de ECMO” para eventos como falha de bomba ou decanulação.\nIII - Para reposicionar o paciente, são necessários ao menos três profissionais.",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas III.",
+      "Apenas I e III.",
+      "I, II e III."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Todos os itens refletem práticas corretas e seguras com pacientes em ECMO."
+  },
+  {
+    "id": 12,
+    "question": "Sobre cuidados no pós-operatório de cirurgias de grande porte, qual está INCORRETA?",
+    "options": [
+      "Dor deve ser avaliada mesmo sob sedação.",
+      "Monitoramento contínuo com PAI é efetivo.",
+      "Avaliar drenos e comunicar alterações.",
+      "Intervenção se débito urinário < 5mL/kg/h.",
+      "Ajuste de monitor e alarmes não são prática de segurança."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Monitor e alarmes são práticas fundamentais de segurança; dizer o contrário é incorreto."
+  },
+  {
+    "id": 13,
+    "question": "Sobre o cuidado seguro do paciente em ventilação mecânica invasiva por tubo endotraqueal, assinale com V (verdadeiro) ou F (falso):\n\n( ) A insuflação inadequada do balonete endotraqueal, inferior a 18 mmHg, pode acarretar risco de aspiração e saída acidental do tubo.\n( ) Para realização da higiene oral é recomendado o uso de clorexidine; esta deve ser aplicada sem diluir e deixada na cavidade oral por 30 a 60 segundos antes da sucção.\n( ) A profundidade média da inserção correta do tubo endotraqueal é de 20 a 21 cm em mulheres e de 22 a 23 cm em homens.\n( ) A aspiração do tubo endotraqueal deve ser realizada de forma padronizada de 2 em 2 horas, evitando o acúmulo de secreção.\n( ) Durante a realização da higiene oral, a cabeceira do leito deve permanecer em um ângulo mínimo de 45°.",
+    "options": [
+      "F – V – F – V – F.",
+      "V – V – V – F – F.",
+      "F – F – V – V – F.",
+      "V – F – F – V – V.",
+      "F – V – F – F – V."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A alternativa B apresenta a sequência correta de acordo com os protocolos de VM."
+  },
+  {
+    "id": 14,
+    "question": "Critérios para indicação de VM invasiva incluem:",
+    "options": [
+      "Apenas I.",
+      "Apenas I e IV.",
+      "Apenas II e III.",
+      "Apenas II e IV.",
+      "Apenas III e IV."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Critérios como hipoxemia e taquipneia justificam VM invasiva."
+  },
+  {
+    "id": 15,
+    "question": "Sobre VMNI, qual está INCORRETA?",
+    "options": [
+      "Reduz morbidade e complicações.",
+      "Máscara oronasal tem desvantagens.",
+      "É contraindicada na DPOC e EAP.",
+      "A escolha da interface é mais importante.",
+      "Modos por pressão são mais adequados."
+    ],
+    "correctAnswer": 2,
+    "explanation": "VMNI é indicada para DPOC e EAP, portanto dizer que é contraindicada está incorreto."
+  },
+  {
+    "id": 16,
+    "question": "São critérios para diagnóstico de sepse, EXCETO:",
+    "options": [
+      "Hipotermia.",
+      "Quadro mental alterado.",
+      "Edema significativo.",
+      "Leucocitose.",
+      "Hipoglicemia."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Hiperglicemia, não hipoglicemia, é mais comum em sepse."
+  },
+  {
+    "id": 17,
+    "question": "Sobre tratamento da sepse, é correto afirmar:",
+    "options": [
+      "Usar corticoides e esperar exames antes de antibiótico.",
+      "Evitar cristaloide na ressuscitação.",
+      "Administrar antibiótico EV eficaz na primeira hora.",
+      "Manter antibiótico amplo por 7 dias mesmo com diagnóstico.",
+      "Obter culturas sempre antes do antibiótico, mesmo que atrase."
+    ],
+    "correctAnswer": 2,
+    "explanation": "O início rápido do antibiótico é crucial; culturas devem ser feitas, mas não atrasar o início."
+  },
+  {
+    "id": 18,
+    "question": "Sobre manejo do delirium, qual está INCORRETA?",
+    "options": [
+      "CAM-ICU é a ferramenta mais comum.",
+      "Intervenções farmacológicas são mais eficazes.",
+      "Avaliação pode ser feita à beira do leito.",
+      "Preservar sono previne delirium.",
+      "Família na UTI ajuda a reduzir delirium."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Medidas não farmacológicas são mais eficazes na prevenção e manejo do delirium."
+  },
+  {
+    "id": 19,
+    "question": "Sobre o nível de consciência de paciente com resposta limitada a estímulos, o estado é:",
+    "options": [
+      "Letargia ou sonolência.",
+      "Delirium.",
+      "Coma.",
+      "Estupor ou torpor.",
+      "Obnubilação."
+    ],
+    "correctAnswer": 4,
+    "explanation": "O paciente apresenta sinais compatíveis com obnubilação (rebaixamento leve a moderado da consciência)."
+  },
+  {
+    "id": 20,
+    "question": "Sobre a higiene das mãos, considere as afirmações:\n\nI - O esmalte de unhas de aplicação recente não aumenta o número de bactérias e não há estudos que relacionem o uso com infecção hospitalar.\nII - São preconizados quatro momentos específicos e obrigatórios para a prática de higiene das mãos.\nIII - A fricção das mãos com soluções de base alcoólica é considerada uma higienização antisséptica.\nIV - Recomenda-se realizar uma lavagem de mãos com água e sabonete comum a cada 5 a 10 fricções com soluções de base alcoólica, especialmente em gel.\n\nQuais estão corretas?",
+    "options": [
+      "Apenas II e III.",
+      "Apenas I, II e III.",
+      "Apenas I, II e IV.",
+      "Apenas I, III e IV.",
+      "Apenas II, III e IV."
+    ],
+    "correctAnswer": 4,
+    "explanation": "Somente as afirmações II, III e IV são corretas. A I é incorreta pois esmalte pode sim interferir na higiene adequada."
+  }
+]
