@@ -179,4 +179,8 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ---
 
-**Desenvolvido com ❤️ para auxiliar estudantes de Enfermagem de UTI** 🏥 
+**Desenvolvido com ❤️ para auxiliar estudantes de Enfermagem de UTI** 🏥
+
+---
+
+**🌐 Acesse o Quiz Online:** https://gabeflowers.github.io/simulator-test/ 
