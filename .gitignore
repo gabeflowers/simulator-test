@@ -8,6 +8,7 @@ pnpm-debug.log*
 # Build
 dist/
 build/
+# docs/ - Não ignorar docs porque o GitHub Pages precisa dela
 
 # Logs
 logs
